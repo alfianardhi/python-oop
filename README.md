@@ -1,2 +1,2 @@
 # python-oop
-try python
+try python firstime
