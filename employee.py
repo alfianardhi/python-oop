@@ -10,3 +10,7 @@ class Employee: #class
             print("target has been achieved")
         else:
             print("target hasn't been achieved")
+
+    @staticmethod
+    def getMessage():
+        print("Hello message static")
